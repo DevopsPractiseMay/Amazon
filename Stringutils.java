@@ -1,1 +1,0 @@
-contains srting connections 
